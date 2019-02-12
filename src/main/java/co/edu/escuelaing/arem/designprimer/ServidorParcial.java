@@ -40,7 +40,7 @@ public class ServidorParcial {
             "   <body>\n" +
             "      <h2>Bienvenido A Características de Arreglos :</h2>\n" +
             "      <p>Esta App le calculara las siguientes características: el máximo, el mínimo, la sumatoria y la multiplicatoria.</p>\n" +
-            "      <p>Por favor dijite los Numeros de su arreglo en el formulario de la parte inferior *Se debe de  ingresar los numeros separados por espacios y con \".\" puntos decimales en caso de requerirlo.*</p>\n" +
+            "      <p>Por favor digite los Numeros de su arreglo en el formulario de la parte inferior *Se debe de  ingresar los numeros separados por espacios y con \".\" puntos decimales en caso de requerirlo.*</p>\n" +
             "       <form action=\"/results\">\n" +
             "           Ingrese los datos:<br>\n" +
             "           <input type=\"text\" placeholder=\"Separar por estacios\" name=\"datos1\" ><br>\n" +
