@@ -68,8 +68,8 @@ public class Operaciones {
 	 * @return double
 	 */
     public Double Multiplicatoria(LinkedList<Double> e){
-        Double multiplicar=0.0;
-        for(int i=0;i<e.size();i++){
+        Double multiplicar=e.get(0);
+        for(int i=1;i<e.size();i++){
             multiplicar=multiplicar*e.get(i);
         }
         return multiplicar;
